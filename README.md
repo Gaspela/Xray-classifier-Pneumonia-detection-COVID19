@@ -36,5 +36,19 @@ TensorFlow
 
 TensorFlow is an open source software library for high performance numerical computation. Its flexible architecture allows easy deployment of computation across a variety of platforms (CPUs, GPUs, TPUs), and from desktops to clusters of servers to mobile and edge devices.
 ```
+```
+MatplotLib
+!pip install matplotlib
+
+Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.
+```
+```
+Numpy
+!pip install numpy
+
+Besides its obvious scientific uses, NumPy can also be used as an efficient multi-dimensional container of generic data. Arbitrary data-types can be defined. This allows NumPy to seamlessly and speedily integrate with a wide variety of databases.
+```
+```
+```
 # Model
 # Results
