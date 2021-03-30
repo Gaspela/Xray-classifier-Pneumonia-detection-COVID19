@@ -24,5 +24,12 @@ imblearn
 
 imbalanced-learn is a python package offering a number of re-sampling techniques commonly used in datasets showing strong between-class imbalance. It is compatible with scikit-learn and is part of scikit-learn-contrib projects.
 ```
+```
+Pandas
+!pip install pandas
+
+pandas is a Python package that provides fast, flexible, and expressive data structures designed to make working with structured (tabular, multidimensional, potentially heterogeneous) and time series data both easy and intuitive.
+```
+
 # Model
 # Results
