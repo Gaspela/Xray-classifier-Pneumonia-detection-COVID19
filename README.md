@@ -9,7 +9,7 @@ The intention of this project is directed to the medical community to provide ad
 The user experience will be using a landing page in which you can load a lung radiography to review whether a person has COVID-19 or not.
 
 # Data
-<p style="text-align:center"><img src="https://i.ibb.co/FK1R22r/COVID-72.png" alt="COVID-72" border="0"></p>
+<p style="text-align:center"><img width="800" height="200"src="https://i.ibb.co/FK1R22r/COVID-72.png" alt="COVID-72" border="0"></p>
 <br>
 It will be used to collect data from Kaggle data sets for the purpose of obtaining X-rays of people with positive COVID-19 cases along with images of normal lung infection, non-COVID and viral pneumonia.
 
