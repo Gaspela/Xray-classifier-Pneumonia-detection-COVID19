@@ -10,6 +10,7 @@ The user experience will be using a landing page in which you can load a lung ra
 
 # Data
 <p style="text-align:center"><img width="850" height="200"src="https://i.ibb.co/FK1R22r/COVID-72.png" alt="COVID-72" border="0"></p>
+[COVID-19 Radiography Database](https://www.kaggle.com/tawsifurrahman/covid19-radiography-database)
 <br>
 It will be used to collect data from Kaggle data sets for the purpose of obtaining X-rays of people with positive COVID-19 cases along with images of normal lung infection, non-COVID and viral pneumonia.
 
