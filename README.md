@@ -19,7 +19,7 @@ Mobile device and desktop using an internet browser. Also, Jupyter notebook for 
 
 # Libraries
 ```
-imblearn
+Imblearn
 !pip install imblearn
 
 imbalanced-learn is a python package offering a number of re-sampling techniques commonly used in datasets showing strong between-class imbalance. It is compatible with scikit-learn and is part of scikit-learn-contrib projects.
@@ -49,6 +49,16 @@ Numpy
 Besides its obvious scientific uses, NumPy can also be used as an efficient multi-dimensional container of generic data. Arbitrary data-types can be defined. This allows NumPy to seamlessly and speedily integrate with a wide variety of databases.
 ```
 ```
+Tqdm
+!pip install tqdm
+
+Smart progress meter, tqdm utiliza algoritmos inteligentes para predecir el tiempo restante y omitir pantallas de iteración innecesarias.
+```
+```
+scikit-learn
+!pip install scikit-learn
+
+ideal for using algorithms for classification, regression, grouping, and dimensionality reduction. Additionally, it features compatibility with other Python libraries such as NumPy, SciPy, and matplotlib.
 ```
 # Model
 # Results
