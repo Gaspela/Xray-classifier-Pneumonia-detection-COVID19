@@ -18,5 +18,11 @@ The most important ethical implication is that this tool is supposed to be used 
 Mobile device and desktop using an internet browser. Also, Jupyter notebook for code review and step by step process.
 
 # Libraries
+```
+imblearn
+!pip install imblearn
+
+imbalanced-learn is a python package offering a number of re-sampling techniques commonly used in datasets showing strong between-class imbalance. It is compatible with scikit-learn and is part of scikit-learn-contrib projects.
+```
 # Model
 # Results
